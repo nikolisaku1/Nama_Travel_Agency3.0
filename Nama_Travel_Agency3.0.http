@@ -1,0 +1,6 @@
+@Nama_Travel_Agency3._0_HostAddress = http://localhost:5049
+
+GET {{Nama_Travel_Agency3._0_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
